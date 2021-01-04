@@ -1,0 +1,7 @@
+d:
+cd Universidad
+cd Fundamentos matemáticos
+cd UTM
+javac FeedTM.java
+javac UTM.java
+java FeedTM.java
